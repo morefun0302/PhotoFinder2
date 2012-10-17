@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: yohji_okada@tubasa.co.jp
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: photofinder2
+moduleid: jp.co.tubasa.photofinder2
+guid: 4989152b-4948-41e3-935c-2e8733f71929
+platform: android
+minsdk: 2.1.2.GA
